@@ -188,4 +188,13 @@ meter::-webkit-meter-optimum-value {
 .blue-text-job {
     color: rgb(62, 116, 116);
 }
+
+.blue-text-education {
+    color: rgb(62, 116, 116);
+}
+
+.space-between-vertically {
+    margin-top: -15px;
+    margin-bottom: -5px;
+}
 /* -----------RIGHT SECTION */
